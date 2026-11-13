@@ -119,7 +119,7 @@ playground/react/03-forms/
 - [x] 确定第一个实践项目：Pocket Ledger
 - [ ] 初始化 React Playground
 - [ ] 初始化 Flutter Playground
-- [ ] 编写 docs/learning-roadmap.md
+- [x] 编写 docs/learning-roadmap.md
 - [ ] 确定 Pocket Ledger MVP 页面与数据模型
 - [ ] 完成第一个 React 组件实验
 - [ ] 完成第一个 Flutter Widget 实验
